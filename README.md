@@ -120,7 +120,7 @@ TDR Camera разработана для фотографов, которым т
 
 ### Интерфейс камеры
 
-> Скриншот появится в ближайшее время.
+> ![Интерфейс камеры](https://github.com/alexanderkazakow/tdr-camera/images/screenshot_001.jpg)
 
 ### Настройки съемки
 
