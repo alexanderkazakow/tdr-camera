@@ -124,15 +124,19 @@ TDR Camera разработана для фотографов, которым т
 
 ### Настройки съемки
 
-> Скриншот появится в ближайшее время.
+> ![Настройки съемки](https://github.com/alexanderkazakow/tdr-camera/blob/main/images/screenshot_002.jpg)
 
 ### Обработка
 
-> Скриншот появится в ближайшее время.
+> ![Обработка в Adobe Camera Raw](https://github.com/alexanderkazakow/tdr-camera/blob/main/images/screenshot_003.jpg)
 
-### Результат работы
+### Фотографии
 
-> Скриншот появится в ближайшее время.
+> ![Пример фотографии 1](https://github.com/alexanderkazakow/tdr-camera/blob/main/images/result_001.jpg)
+> ![Пример фотографии 2](https://github.com/alexanderkazakow/tdr-camera/blob/main/images/result_002.jpg)
+> ![Пример фотографии 3](https://github.com/alexanderkazakow/tdr-camera/blob/main/images/result_003.jpg)
+> ![Пример фотографии 4](https://github.com/alexanderkazakow/tdr-camera/blob/main/images/result_004.jpg)
+> ![Пример фотографии 5](https://github.com/alexanderkazakow/tdr-camera/blob/main/images/result_005.jpg)
 
 ---
 
